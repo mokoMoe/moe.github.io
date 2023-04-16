@@ -1,16 +1,16 @@
 body {
-background: darkred
-}
-
-* {
-    padding: 0
+/*background: darkred maybe i will return this someday*/
+background-image: url(https://cdn.discordapp.com/attachments/1050055008353271908/1050055132504670278/89784754_p0.png);
 }
 
 header {
     text-align: center;
     font-size: 2.0em;
-    margin: 25px 5%;
-    padding: 25px 40px;
+    margin: 22 1%;
+    padding: 2px 4px;
     font-family: arial;
     border-radius: 10px;
+    color: navajowhite;
+    /*box-shadow: 0px 0px 4px white; mehh*/
+    background-color: black;
 }
