@@ -1,5 +1,5 @@
 body {
-background: red
+background: darkred
 }
 
 * {
@@ -8,6 +8,8 @@ background: red
 
 header {
     text-align: center;
+    margin: 25px 5%;
+    padding: 25px 40px;
     font-family: arial;
     border-radius: 10px;
 }
